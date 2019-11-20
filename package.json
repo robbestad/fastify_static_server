@@ -1,5 +1,5 @@
 {
-  "name": "fastify static server",
+  "name": "fastify_static_server",
   "version": "1.0.0",
   "description": "server dist as static",
   "main": "index.js",
